@@ -1,2 +1,4 @@
 # hello-world
-hello world repository
+Hello world
+I am Sara, I like programming tv shows and donuts
+
